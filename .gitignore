@@ -31,3 +31,4 @@
 *.out
 *.app
 BuildMyWorld/build/**
+.vscode/settings.json
