@@ -1,5 +1,9 @@
 # Build My World Project
 
+## Building
+
+![Building](./building.png)
+
 ## Gazebo
 
 Create a building with a building editor in Gazebo.
